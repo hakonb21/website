@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+.navbar{
+    background-color: blueviolet;
+    padding: 5px;
+    float: none;
+
+  }
+
+  #hakon{
+    text-align: center;
+    margin-top: -40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+  }
+  #sidebar{
+        display: inline block;
+        margin: 0 auto;
+
+  }
+  #sidebar:hover{
+    background-color: white;
+  }
+
+#main {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: red;
+    background: green;
+}
