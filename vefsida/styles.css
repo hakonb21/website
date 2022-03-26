@@ -28,5 +28,12 @@ body{
     height: 100px;
     margin: 10px;
     border: red;
-    background: green;
+}
+
+#vid {
+  border-color: cornflowerblue;
+  color: white;
+  background: black;
+  width: 200px;
+  height: auto;
 }
